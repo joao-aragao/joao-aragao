@@ -1,6 +1,6 @@
 # Hi, I'm João Aragão
 
-[![Github Badge](https://github.com/joao-aragao)
+[![Github Badge](https://github.com/joao-aragao)]
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/jo%C3%A3o-victor-arag%C3%A3o-05852417a/)
 
 ### About me
